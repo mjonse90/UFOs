@@ -28,3 +28,8 @@ And finally, here is what a search for "triangle" looks like.
 
 <img width="1287" alt="Screen Shot 2022-08-29 at 2 08 49 PM" src="https://user-images.githubusercontent.com/103767830/187279000-11cb7a25-6280-4751-b94c-d893790a6640.png">
 
+
+## Summary
+The purpose of the website is successful in displaying UFO sightings. However, there are a couple of things that could better help the user in finding what they are looking for. First would be that the search done needs to match the data stored exactly, or no results will be shows. And the second would be that in order to search for multiple sightings, one search must be done and then cleared in order to complete a second search. 
+
+A couple of recommendations for the site would be the ability for the site to refresh after each search. The site now requires you to clear your search before performing another one. The second recommendation would be to allow users to upload their own UFO sightings to broaden the search results for new users in the future. 
